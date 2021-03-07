@@ -1,6 +1,6 @@
 Privacy Policy
 
-Osama Hasanain built the SMS Prankster Chef app as a Cooke app. This SERVICE is provided by Osama Hasanain and is intended for use as is.
+Osama Hasanain built the Chef app as a Cooke app. This SERVICE is provided by group smart apps for Osama and is intended for use as is.
 
 This page is used to inform website visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -39,6 +39,9 @@ I may employ third-party companies and individuals due to the following reasons:
     To assist us in analyzing how our Service is used.
 
 I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+The Recipes and accounts
+the recipes in the app which your upload for app it's became the owner of the application with all its data and has the right to publish and display it to others
 
 Security
 
